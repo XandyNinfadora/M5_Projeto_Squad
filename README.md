@@ -1,5 +1,5 @@
-# Quinto projeto em grupo - Lanchonete da Dona Nenê API
-O objetivo desse projeto é criar uma API da Lanchonete da Dona Nenê, na qual irá fornecer dados do estoque e também a excução do CRUD nas rotas. Sendo dados do estoque de uma lanchonete, conterá registro pertinente aos produtos e suas respectivas descrições.
+# 5º Projeto em Grupo - Lanchonete da Dona Nenê API
+O objetivo desse projeto é criar uma API da Lanchonete da Dona Nenê, na qual irá fornecer dados do estoque e também a execução do CRUD nas rotas. Sendo dados do estoque de uma lanchonete, conterá registro pertinente aos produtos e suas respectivas descrições.
 
 A API pode ser acessada por esse link https://lado-c-cinema.onrender.com.
 
@@ -16,7 +16,7 @@ A API pode ser acessada por esse link https://lado-c-cinema.onrender.com.
 
 <hr>
 
-## Os arquivos
+## OS ARQUIVOS
 <h3> Há duas pastas e e dois arquivos na raiz: </h3>
 <ol> 
 <li> SQL/ - pasta onde há as tabelas, contendo 4 arquivos sql;</li>
@@ -27,14 +27,14 @@ A API pode ser acessada por esse link https://lado-c-cinema.onrender.com.
 
 <hr>
 
-## A modelagem 
+## A MODELAGEM 
 Apresentar de forma clara o estoque de itens, separando por tipo de produto.
 
 <img src="Modelagem.png" width="500px"/>
 
 <hr>
 
-## Endpoints
+## ENDPOINTS
 <ol>
 <li> /estoque/pasteis </li>
 <li> /estoque/hamburguers </li>
@@ -43,7 +43,7 @@ Apresentar de forma clara o estoque de itens, separando por tipo de produto.
 
 <hr>
 
-## Métodos
+## MÉTODOS
 Podem ser utilizados os seguintes métodos em todas as rotas
 <ol>
 <li> GET </li>
@@ -54,22 +54,22 @@ Podem ser utilizados os seguintes métodos em todas as rotas
 
 <hr>
 
-## Dependências utilizadas
+## DEPENDÊNCIAS UTILIZADAS
 - Express;
 - Nodemon.
 
 <hr>
 
-## Integrantes
+## INTEGRANTES
 
 [Andrielle Pessanha] (https://github.com/XandyNinfadora)
 
-[Victor Santos] (https://github.com/dev-victorsantos)
+[Cleyton Santos] (https://github.com/Cleyton2022)
+
+[Erickson Carvalho] (https://github.com/Ericksoncar)
 
 [Tássio Rodrigues] (https://github.com/tassiofeliperj)
 
-[Cleyton Santos] (https://github.com/Cleyton2022)
-
-[Erickson Carvalho] (https://github.com/BieldoJT)
+[Victor Santos] (https://github.com/dev-victorsantos)
 
 <br>
