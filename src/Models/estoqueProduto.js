@@ -1,10 +1,10 @@
 class estoqueProduto {
-    constructor(produto, descricao, valor) {
-        this.produto = produto
-        this.descricao = descricao
-        this.valor = valor
+    constructor(nome_produto, descricao_produto, valor_produto, tipo_produto) {
+        this.nome_produto = nome_produto;
+        this.descricao_produto = descricao_produto;
+        this.valor_produto = valor_produto;
+        this.tipo_produto = tipo_produto;
     }
-    /// Ver essa questão amanhã com o professor, pois tenho que entender esse rolê do autoincremento, se irei lançar aqui ou no banco de dados automático.
   }
 
 export default estoqueProduto;
