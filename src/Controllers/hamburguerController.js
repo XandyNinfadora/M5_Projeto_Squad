@@ -58,7 +58,6 @@ class hamburguerController {
 
         console.log("DeletarHamburguer foi requisitado e executado");
     }
-/// testando merge ///testes e testes
     static async atualizarHamburguer(req, res){
                // Preparar o usuario
                const atualizarHamburguer = new estoqueProduto(req.body.nome_produto, req.body.descricao_produto, req.body.valor_produto, req.body.tipo_produto);
