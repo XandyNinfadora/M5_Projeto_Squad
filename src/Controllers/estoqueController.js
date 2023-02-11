@@ -4,7 +4,7 @@ class estoqueController {
     static rotas(app) {
         // Rota para o recurso usuario
         app.get('/estoque', estoqueController.listarEstoque)
-        app.get('/estoque/:nome_produto', estoqueController.buscarEstoque)
+        app.get('/estoque/procurar/:nome_produto', estoqueController.buscarEstoque)
         app.post('/estoque', estoqueController.adicionarEstoque)
         app.delete('/estoque/:id', estoqueController.deletarEstoque)
         app.put('/estoque/:id', estoqueController.atualizarEstoque)
