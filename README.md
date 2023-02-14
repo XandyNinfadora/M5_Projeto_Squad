@@ -1,5 +1,5 @@
-# 5º Projeto em Grupo - Lanchonete da Dona Nenê API
-O objetivo desse projeto é criar uma API da Lanchonete da Dona Nenê, na qual irá fornecer dados do estoque e também a execução do CRUD nas rotas. Sendo dados do estoque de uma lanchonete, conterá registro pertinente aos produtos e suas respectivas descrições.
+# 5º Projeto em Grupo - Lado C API
+O objetivo desse projeto é criar uma API do website Lado C, na qual irá fornecer dados das filiais e comentários, além da execução do CRUD nas rotas.
 
 A API pode ser acessada por esse link https://lado-c-cinema.onrender.com.
 
@@ -17,28 +17,20 @@ A API pode ser acessada por esse link https://lado-c-cinema.onrender.com.
 <hr>
 
 ## OS ARQUIVOS
-<h3> Há duas pastas e e dois arquivos na raiz: </h3>
+<h3> O modelo seguido foi o MVCD e há dois arquivos na raiz: </h3>
 <ol> 
-<li> SQL/ - pasta onde há as tabelas, contendo 4 arquivos sql;</li>
-<li> Consulta/ - pasta onde há os arquivos que mostram as consultas, um .txt com os códigos e um pdf com todos os prints das consultas;</li>
+<li> Controllers/ - pasta onde há os controllers, contendo 2 arquivos js;</li>
+<li> DAO/ - pasta onde há os arquivos que mostram as consultas, um .txt com os códigos e um pdf com todos os prints das consultas;</li>
 <li> Modelagem.png - este justamente é a modelagem do banco de dados;</li>
 <li> Slide.pptx- o slide de apresentação com o dashbord. </li>
 </ol>
 
 <hr>
 
-## A MODELAGEM 
-Apresentar de forma clara o estoque de itens, separando por tipo de produto.
-
-<img src="Modelagem.png" width="500px"/>
-
-<hr>
-
 ## ENDPOINTS
 <ol>
-<li> /estoque/pasteis </li>
-<li> /estoque/hamburguers </li>
-<li> /estoque/bebidas </li>
+<li> /estoque/filial </li>
+<li> /estoque/sugestao </li>
 </ol>
 
 <hr>
@@ -56,7 +48,8 @@ Podem ser utilizados os seguintes métodos em todas as rotas
 
 ## DEPENDÊNCIAS UTILIZADAS
 - Express;
-- Nodemon.
+- Nodemon;
+- Sqlite3.
 
 <hr>
 
