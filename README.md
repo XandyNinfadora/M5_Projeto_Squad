@@ -22,7 +22,7 @@ A API pode ser acessada por esse link https://lado-c-api.onrender.com/.
 <li> Controllers/ - pasta onde há os controllers, contendo 2 arquivos js</li>
 <li> DAO/ - pasta onde há dois arquivos DAO, também sendo js</li>
 <li> Models/ - dois arquivos nomeados de "modelos", formatação js</li>
-<li> infra/ - um arquivo database contendo o banco de dados e outro arquivo js para a interação com ele</li>/
+<li> infra/ - um arquivo database contendo o banco de dados e outro arquivo js para a interação com ele</li>
 <li> app.js- arquivo js para a interação com o servidor </li>
 <li> server.js - arquivo js para levantar o servidor </li>
 <li> Slides.pptx - o slide de apresentação com o dashbord </li>
