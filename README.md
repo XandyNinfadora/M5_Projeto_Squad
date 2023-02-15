@@ -17,7 +17,7 @@ A API pode ser acessada por esse link https://lado-c-api.onrender.com/.
 <hr>
 
 ## OS ARQUIVOS
-<h3> Os modelos seguidos foram o MVC e DAO, existindo há dois arquivos na raiz: </h3>
+<h3> Os modelos seguidos foram o MVC e DAO, existindo dois arquivos na raiz: </h3>
 <ol> 
 <li> Controllers/ - pasta onde há os controllers, contendo 2 arquivos js;</li>
 <li> DAO/ - pasta onde há dois arquivos DAO, também sendo js;</li>
