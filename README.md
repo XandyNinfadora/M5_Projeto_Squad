@@ -1,7 +1,7 @@
 # 5º Projeto em Grupo - Lado C API
-O objetivo desse projeto é criar uma API do website Lado C, na qual irá fornecer dados das filiais e comentários, além da execução do CRUD nas rotas.
+O objetivo desse projeto é criar o back-end do website Lado C, tendo como princípio de implementar uma página onde há comentários dos clientes. Sendo assim, foi necessário a criação de uma API para interação com esses dados que serão consumidos.
 
-A API pode ser acessada por esse link https://lado-c-cinema.onrender.com.
+A API pode ser acessada por esse link https://lado-c-api.onrender.com/.
 
 <hr>
 <h3> Como rodar o projeto:</h3>
@@ -17,20 +17,23 @@ A API pode ser acessada por esse link https://lado-c-cinema.onrender.com.
 <hr>
 
 ## OS ARQUIVOS
-<h3> O modelo seguido foi o MVCD e há dois arquivos na raiz: </h3>
+<h3> Os modelos seguidos foram o MVC e DAO, existindo dois arquivos na raiz </h3>
 <ol> 
-<li> Controllers/ - pasta onde há os controllers, contendo 2 arquivos js;</li>
-<li> DAO/ - pasta onde há os arquivos que mostram as consultas, um .txt com os códigos e um pdf com todos os prints das consultas;</li>
-<li> Modelagem.png - este justamente é a modelagem do banco de dados;</li>
-<li> Slide.pptx- o slide de apresentação com o dashbord. </li>
+<li> Controllers/ - pasta onde há os controllers, contendo 2 arquivos js</li>
+<li> DAO/ - pasta onde há dois arquivos DAO, também sendo js</li>
+<li> Models/ - dois arquivos nomeados de "modelos", formatação js</li>
+<li> infra/ - um arquivo database contendo o banco de dados e outro arquivo js para a interação com ele</li>
+<li> app.js- arquivo js para a interação com o servidor </li>
+<li> server.js - arquivo js para levantar o servidor </li>
+<li> Slides.pptx - o slide da apresentação </li>
 </ol>
 
 <hr>
 
 ## ENDPOINTS
 <ol>
-<li> /estoque/filial </li>
-<li> /estoque/sugestao </li>
+<li> /filial </li>
+<li> /sugestao </li>
 </ol>
 
 <hr>
@@ -49,7 +52,8 @@ Podem ser utilizados os seguintes métodos em todas as rotas
 ## DEPENDÊNCIAS UTILIZADAS
 - Express;
 - Nodemon;
-- Sqlite3.
+- Sqlite3;
+- Cors.
 
 <hr>
 
