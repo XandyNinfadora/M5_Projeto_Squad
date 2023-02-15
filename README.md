@@ -1,5 +1,5 @@
 # 5º Projeto em Grupo - Lado C API
-O objetivo desse projeto é criar uma API do website Lado C, na qual irá fornecer dados das filiais e comentários, além da execução do CRUD nas rotas.
+O objetivo desse projeto é criar o back-end do website Lado C, tendo como princípio de implementar uma página onde há comentários dos clientes. Sendo assim, foi necessário a criação de uma API para interação com esses dados que serão consumidos.
 
 A API pode ser acessada por esse link https://lado-c-api.onrender.com/.
 
