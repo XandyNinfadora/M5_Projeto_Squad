@@ -25,7 +25,7 @@ A API pode ser acessada por esse link https://lado-c-api.onrender.com/.
 <li> infra/ - um arquivo database contendo o banco de dados e outro arquivo js para a interação com ele</li>
 <li> app.js- arquivo js para a interação com o servidor </li>
 <li> server.js - arquivo js para levantar o servidor </li>
-<li> Slides.pptx - o slide de apresentação com o dashbord </li>
+<li> Slides.pptx - o slide da apresentação </li>
 </ol>
 
 <hr>
