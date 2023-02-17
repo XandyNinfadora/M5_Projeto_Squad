@@ -3,7 +3,7 @@ O objetivo desse projeto é criar o back-end do website Lado C, tendo como princ
 
 A API pode ser acessada por esse link https://lado-c-api-4xbb.onrender.com
 
-O Website ser acessado pelo link https://lado-c.onrender.com
+O lin do Website https://lado-c.onrender.com
 
 O repositório do front https://github.com/XandyNinfadora/M3-Cinema
 
