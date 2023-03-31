@@ -11,7 +11,7 @@ O repositório do site: https://apiladoc.onrender.com
 <h3> Como rodar o projeto:</h3>
 <h4> Você pode clonar o projeto e rodá-lo localmente seguindo os passos a seguir</h4>
 <ol>
-<li> Comece com o git clone no link https://github.com/XandyNinfadora/Projeto_Squad_M5 para a clonagem do mesmo </li>
+<li> Comece com o git clone no link https://github.com/XandyNinfadora/M5_Projeto_Squad para a clonagem do mesmo </li>
 <li> No terminal, npm install para a instalação das dependências do projeto </li>
 <li> npm start para iniciar o projeto no servidor local </li>
 <li> Acessar http://localhost:3000 em seu navegador padrão </li>
