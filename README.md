@@ -1,11 +1,11 @@
-# 5º Projeto em Grupo - Lado C API
+# Quinto Projeto em Grupo - Lado C API
 O objetivo desse projeto é criar o back-end do website Lado C, tendo como princípio de implementar uma página onde há comentários dos clientes. Sendo assim, foi necessário a criação de uma API para interação com esses dados que serão consumidos.
 
-A API pode ser acessada por esse link https://lado-c-api-4xbb.onrender.com
+A API pode ser acessada por esse link: https://apiladoc.onrender.com
 
-O lin do Website https://lado-c.onrender.com
+O link do Website: https://ladoc.onrender.com
 
-O repositório do front https://github.com/XandyNinfadora/M3-Cinema
+O repositório do site: https://apiladoc.onrender.com
 
 <hr>
 <h3> Como rodar o projeto:</h3>
